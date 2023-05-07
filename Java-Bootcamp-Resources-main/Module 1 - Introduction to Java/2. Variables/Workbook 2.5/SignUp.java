@@ -40,7 +40,7 @@ public class SignUp {
         System.out.println("\tCity: "+city);
         System.out.println("\tCountry: "+country);
 
-        System.out.println("Thank you for joining JavaGram!");
+        System.out.println("Thank you for joining JavaGram!\n");
 
         scan.close();
         //Print their information like so:
